@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53d0bd7f.chunk.css",
+    "main.js": "/static/js/main.84ce4dac.chunk.js",
+    "main.js.map": "/static/js/main.84ce4dac.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7616b30b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7616b30b.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.596a4e5c.chunk.js": "/static/js/2.596a4e5c.chunk.js",
+    "static/js/2.596a4e5c.chunk.js.map": "/static/js/2.596a4e5c.chunk.js.map",
+    "static/js/3.5a108d43.chunk.js": "/static/js/3.5a108d43.chunk.js",
+    "static/js/3.5a108d43.chunk.js.map": "/static/js/3.5a108d43.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.53d0bd7f.chunk.css.map": "/static/css/main.53d0bd7f.chunk.css.map",
+    "static/js/2.596a4e5c.chunk.js.LICENSE.txt": "/static/js/2.596a4e5c.chunk.js.LICENSE.txt",
+    "static/media/AnyoneForSodiumTube.f23a75da.png": "/static/media/AnyoneForSodiumTube.f23a75da.png",
+    "static/media/App.css": "/static/media/Goclenius1920.0b74c9ab.png",
+    "static/media/GalaxyDefenders.cd4f28fa.png": "/static/media/GalaxyDefenders.cd4f28fa.png",
+    "static/media/HamJamFive.b387a1d6.png": "/static/media/HamJamFive.b387a1d6.png",
+    "static/media/MonsterHouse.20340451.png": "/static/media/MonsterHouse.20340451.png",
+    "static/media/PrairieDogSim.44db7541.gif": "/static/media/PrairieDogSim.44db7541.gif",
+    "static/media/STARSSpaceTime.11d3dcb4.gif": "/static/media/STARSSpaceTime.11d3dcb4.gif",
+    "static/media/SchoolOfFish.dc3065f3.gif": "/static/media/SchoolOfFish.dc3065f3.gif",
+    "static/media/SpaceCastleLander.095e39b5.png": "/static/media/SpaceCastleLander.095e39b5.png",
+    "static/media/availableOnItchIO.9faf3187.svg": "/static/media/availableOnItchIO.9faf3187.svg",
+    "static/media/balloonkaboom.b58b1cb1.png": "/static/media/balloonkaboom.b58b1cb1.png",
+    "static/media/balloonkaboomcard.21f9214f.png": "/static/media/balloonkaboomcard.21f9214f.png",
+    "static/media/gerepad.3a287e77.png": "/static/media/gerepad.3a287e77.png",
+    "static/media/getItGooglePlay.f902960a.png": "/static/media/getItGooglePlay.f902960a.png",
+    "static/media/lessHealthMoreKill.92ba4fbd.gif": "/static/media/lessHealthMoreKill.92ba4fbd.gif",
+    "static/media/logo.3ff689db.png": "/static/media/logo.3ff689db.png",
+    "static/media/Home.css": "/static/media/sccmeajqeze.d381cad8.png",
+    "static/media/spaceengineerscalculatorcard.d23d4446.png": "/static/media/spaceengineerscalculatorcard.d23d4446.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7616b30b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.596a4e5c.chunk.js",
+    "static/css/main.53d0bd7f.chunk.css",
+    "static/js/main.84ce4dac.chunk.js"
+  ]
+}
